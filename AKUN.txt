@@ -1,0 +1,21 @@
+Akun Admin :
+
+Email : admin@admin.com
+Password : 12345678
+
+Akun User : Bisa diregister sendiri
+Atau
+Email : fiona@gmail.com
+Password : 12345678
+
+Cara run :
+Extract File
+1. Nyalakan Xampp Apache dan MySQL
+2. Buat database di phpmyadmin dengan nama : bookingdb
+3. Buka terminal
+4. Ketik "php artisan migrate"
+5. Ketik "php artisan db:seed"
+6. Ketik "php artisan serve"
+7. Tekan link yang diberikan
+
+
